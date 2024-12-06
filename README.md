@@ -1,8 +1,8 @@
 # Desafio-DIO
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Desvendando a IA: a Jornada de uma Garota neste Novo Mundo 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+história em quadrinhos que acompanha os primeiros passos de uma garota que decide se infiltrar no mundo "masculino" e desvendar os mistérios das IAs Generativas e seu impacto em nosso dia a dia e como ela descobre que o futuro não está tão distante.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
