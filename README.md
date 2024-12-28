@@ -13,7 +13,9 @@ A proposta central é apresentar uma narrativa educativa, positiva e lúdica, ca
 - Ferramenta **[Canva].(https://www.canva.com/)** para edição final.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para estruturar um roteiro, a partir de minha ideia inicial para a história, para sugerir possíveis ferramentas que poderiam ajudar no projeto e, finalmente, para refinar os prompts utilizados na ferramenta de criação dos quadrinhos. Após, desenvolvi os quadrinhos na "AI Comic Generator" e importei as imagens finais para edição final no "Canva". Para finalizar, o "Leonardo AI" foi usado para gerar uma imagem "especial" e exclusiva para ser a capa da Comic Book.
+O desenvolvimento da Comic Book começou com a utilização do "ChatGPT" para estruturar o roteiro a partir da ideia inicial, além de sugerir ferramentas adequadas ao projeto e refinar os prompts utilizados nas etapas seguintes. Em seguida, os quadrinhos foram criados na "AI Comic Generator", onde as cenas ganharam forma. As imagens geradas foram então importadas para o "Canva" para ajustes finais e edição dos detalhes visuais.
+
+Para tornar o projeto ainda mais especial, a ferramenta "Leonardo AI" foi utilizada para criar uma imagem exclusiva e marcante, que foi escolhida como capa da Comic Book. Esse processo colaborativo entre ideias e tecnologia resultou em uma obra única, educativa e cativante.
 
 ## 🚀 Resultados
 A Comic Book apresenta um conteúdo envolvente e visualmente rico, que propõe ao leitor uma compreensão clara e lúdica de como a inteligência artificial generativa está presente em nosso cotidiano, sentindo-se inspirado e empoderado para explorar a tecnologia de forma divertida e acessível. Além disso, a conexão emocional com Gigi e Zippy reforça a ideia de que a tecnologia não precisa ser intimidante, mas sim uma aliada criativa no aprendizado e nas aventuras do dia a dia.
