@@ -20,7 +20,8 @@ Para tornar o projeto ainda mais especial, a ferramenta "Leonardo AI" foi utiliz
 ## 🚀 Resultados
 A Comic Book apresenta um conteúdo envolvente e visualmente rico, que propõe ao leitor uma compreensão clara e lúdica de como a inteligência artificial generativa está presente em nosso cotidiano, sentindo-se inspirado e empoderado para explorar a tecnologia de forma divertida e acessível. Além disso, a conexão emocional com Gigi e Zippy reforça a ideia de que a tecnologia não precisa ser intimidante, mas sim uma aliada criativa no aprendizado e nas aventuras do dia a dia.
 
-LINK PARA A COMIC BOOK AQUI
+[LINK PARA A COMIC BOOK AQUI](https://github.com/Cecima1/Desafio-DIO/raw/main/Desvendando%20a%20IA_As%20aventuras%20de%20Gigi%20e%20Zippy%20pelo%20Mundo%20da%20Tecnologia.pdf))
+
 
 ## 💭 Reflexão
 Criar esta Comic Book foi uma experiência enriquecedora, repleta de aprendizado e descobertas. Não se tratou apenas de explorar novas ferramentas e desenvolver habilidades, mas também de mergulhar mais fundo no universo da tecnologia e refletir sobre a forma como nos conectamos e interagimos com ela. Foi uma jornada de criatividade e conhecimento que reforçou a importância de tornar a tecnologia acessível e descomplicada para todos.
