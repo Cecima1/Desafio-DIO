@@ -10,7 +10,7 @@ A proposta central é apresentar uma narrativa educativa, positiva e lúdica, ca
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para ajuda na roteirização e utilização das demais ferramentas;
 - IA Generativa **[AI Comic Generator](https://aicomicgenerator.net/)** para criar a arte visual dos quadrinhos 
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual da capa;
-- Ferramenta **[Canva].(https://www.canva.com/)** para edição final.
+- Ferramenta **[Canva](https://www.canva.com/)** para edição final.
 
 ## 🧐 Processo de Criação
 O desenvolvimento da Comic Book começou com a utilização do "ChatGPT" para estruturar o roteiro a partir da ideia inicial, além de sugerir ferramentas adequadas ao projeto e refinar os prompts utilizados nas etapas seguintes. Em seguida, os quadrinhos foram criados na "AI Comic Generator", onde as cenas ganharam forma. As imagens geradas foram então importadas para o "Canva" para ajustes finais e edição dos detalhes visuais.
